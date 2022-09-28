@@ -1,0 +1,11 @@
+public class Main {
+    public static void main(String[] args) {
+
+       int altura = 8;
+       int base = 12;
+       int area = (base * altura) / 2;
+
+        System.out.println(area);
+
+    }
+}

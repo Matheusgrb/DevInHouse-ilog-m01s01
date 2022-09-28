@@ -1,0 +1,2 @@
+O limite W.I.P. é uma propriedade do Kanban que permite melhor gerenciamento dos processos, melhorando o fluxo de trabalho.
+Ao limitar o Work In Progress(Trabalho em andamento) e impedir que esses vão se acumulando, você impede uma sobrecarga na equipe e prejudique os processos e o projeto.
